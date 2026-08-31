@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'goodnight-v10';
+const CACHE_VERSION = 'goodnight-v11';
 const APP_SHELL = [
   './',
   './index.html',
